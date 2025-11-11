@@ -84,8 +84,24 @@ body {
 .search{
   width: 100%;
   height: auto;
+  display: flex;
+  justify-content: center;
 }
 .i1{
+  width: 85%;
+  height: auto;
+}
+.i2{
+  width: 10%;
+  height: auto;
+}
+.category1{
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: left;
+}
+.i3{
   width: 100%;
   height: auto;
 }
